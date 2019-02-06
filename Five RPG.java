@@ -1,5 +1,4 @@
 //Name: Raj Zala
-//Date: March 27, 2017
 //Purpose: Entertain people standing in lines at Comic-Con
 
 import javax.swing.*;
