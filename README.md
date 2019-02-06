@@ -8,3 +8,5 @@ Physical State Calculator: A Python program which tells you the physical state o
 Max_Element_Finder: A MATLAB script which locates the element with the highest value in a matrix and returns its position.
 
 Naive_Gauss: A MATLAB function which performs naive gaussian elimination on a given matrix.
+
+RPS: A Java Rock-Paper-Scissors applet.
