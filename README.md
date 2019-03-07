@@ -12,3 +12,5 @@ Naive_Gauss: A MATLAB function which performs naive gaussian elimination on a gi
 RPS: A Java Rock-Paper-Scissors applet.
 
 Five RPG: A Java RPG which incorporates several minigames and uses ASCII art.
+
+Newtown_Raphson_Method: A program which finds a root of a given function (-0.9 x^2+ 1.7 x + 2, in this case) using the Newton-Raphson Method. In this case, x0 = 5 and the computation is performed until the tolerance is less than 0.01%.
