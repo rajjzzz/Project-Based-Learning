@@ -1,6 +1,8 @@
 # Project-Based-Learning
 A collection of the small projects I work on everyday to learn new concepts and practice my programming skills!
 
+Beam Profile: A Python script which outputs a radial plot comparing the beam profile of 2 LED devices given the csv files obtained by doing beam angle measurements on the LED devices.
+
 Zero_Insertion: A MATLAB function which insterts 'm' zeroes after every 'M'th element of a given vector 'x' to make a new row vector 'y'.
 
 Physical State Calculator: A Python program which tells you the physical state of an object given its current temperature.
